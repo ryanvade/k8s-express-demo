@@ -42,4 +42,4 @@ minikube destroy
 ```
 
 ## View the K8S Dashboard
-1. ```bash minikube dashboard```
+1. ```minikube dashboard```
